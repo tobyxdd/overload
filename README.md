@@ -31,3 +31,7 @@ Place a `config.json` in the working directory (an example is provided in the re
 ```  
   
 Greater weights indicate higher chances of being used for a connection. Adjust the weights based on the bandwidth to get best results.
+
+## TODO
+
+ - IPv6 support (this one is a bit tricky, because some adapters may support IPv6 and some others may not)
