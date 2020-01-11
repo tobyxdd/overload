@@ -1,0 +1,13 @@
+{
+  "socks5_listen_addr": "127.0.0.1:1080",
+  "interfaces": [
+    {
+      "name": "Ethernet",
+      "weight": 1
+    },
+    {
+      "name": "Wi-Fi 2",
+      "weight": 1
+    }
+  ]
+}
